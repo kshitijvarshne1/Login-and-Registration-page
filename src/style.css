@@ -93,3 +93,9 @@ span {
   position: absolute;
   bottom: 40px;
 }
+#login {
+  left: 50px;
+}
+#register {
+  left: 120%;
+}
